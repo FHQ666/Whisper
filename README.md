@@ -61,7 +61,7 @@
     ```
 3. 打包成可执行文件： 如果你需要重新打包该项目为可执行文件，请运行以下命令：
     ```bash
-    pyinstaller --onefile --windowed transcribe_with_translation.py
+    pyinstaller --onefile --windowed transcribe.py
     ```
 ### 依赖列表
 * Whisper (OpenAI)
